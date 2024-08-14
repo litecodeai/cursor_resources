@@ -15,17 +15,13 @@ What is Cursor? Who made it? What are its main features?
 
 See [cursor_faqs.md](cursor_faqs/cursor_faqs.md) for answers to these and other FAQs.  
 
------
-
-**Comprehensive and Succinct List of Cursor Features**  
-
-A GitHub Pages site with the rather ambitious task of listing all of Cursor's features.
-
-This is a work in progress.    
-
-https://litecodeai.github.io/cursorfeatures
-
 ----
+
+**Cursor Troubleshooting**
+
+See [cursor_troubleshooting](cursor_troubleshooting) for approaches to common troubleshooting issues.  
+
+---- 
 
 **Canned Prompts**  
 
@@ -45,4 +41,12 @@ Just use the `@` [Files symbol](https://docs.cursor.com/context/@-symbols/@-file
 
 ----
 
+**Comprehensive and Succinct List of Cursor Features**  
 
+A GitHub Pages site with the rather ambitious task of listing all of Cursor's features.
+
+This is a work in progress.    
+
+https://litecodeai.github.io/cursorfeatures
+
+----
