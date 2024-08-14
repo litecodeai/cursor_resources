@@ -45,7 +45,7 @@ See [canned_prompts.md](canned_prompts/canned_prompts.md) for a list of example 
 
 Just use the `@` [Files symbol](https://docs.cursor.com/context/@-symbols/@-files) to select the canned prompts file and then reference the relevant prompt.  
 
-The idea was inspired from [this Cursor forum post](https://forum.cursor.com/t/context-groups-defining-collections-of-files-as-a-single-context-for-prompting/7405).  
+The idea was inspired by [this Cursor forum post](https://forum.cursor.com/t/context-groups-defining-collections-of-files-as-a-single-context-for-prompting/7405).  
 
 ----
 
