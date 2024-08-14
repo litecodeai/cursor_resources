@@ -13,7 +13,7 @@ But hopefully they still give you a general idea of what's possible in Cursor!
 
 What is Cursor? Who made it? What are its main features?   
 
-See [cursor_faqs.md](cursor_faqs/cursor_faqs.md) for a list of FAQs.  
+See [cursor_faqs.md](cursor_faqs/cursor_faqs.md) for answers to these and other FAQs.  
 
 -----
 
