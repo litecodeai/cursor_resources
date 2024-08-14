@@ -19,7 +19,9 @@ See [cursor_faqs.md](cursor_faqs/cursor_faqs.md) for answers to these and other 
 
 **Cursor Troubleshooting**
 
-See [cursor_troubleshooting](cursor_troubleshooting) for approaches to common troubleshooting issues, including [basic troubleshooting questions](cursor_troubleshooting/basic_troubleshooting_questions.md).  
+See [cursor_troubleshooting](cursor_troubleshooting) for approaches to common troubleshooting issues.
+
+This includes [basic troubleshooting questions](cursor_troubleshooting/basic_troubleshooting_questions.md).  
 
 ---- 
 
