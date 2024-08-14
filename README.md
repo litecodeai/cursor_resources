@@ -19,7 +19,7 @@ See [cursor_faqs.md](cursor_faqs/cursor_faqs.md) for answers to these and other 
 
 **Comprehensive and Succinct List of Cursor Features**  
 
-A GitHub Pages site with the rather ambitious task of listing all of Cursor's features (work in progress).  
+A GitHub Pages site with the rather ambitious task of listing all of Cursor's features (this is a work in progress).  
 
 https://litecodeai.github.io/cursorfeatures
 
