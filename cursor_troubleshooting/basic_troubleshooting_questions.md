@@ -6,7 +6,7 @@ Perhaps the following information from you would be helpful:
 
 **Interface Details**
 
-Confirm which of the Cursor AI interfaces you are having trouble with:
+Which Cursor AI interface are you having trouble with? 
 
  - `Ctrl` + `L` - Normal Chat
  - `Ctrl` + `L` - Long Context Chat
@@ -17,7 +17,7 @@ Confirm which of the Cursor AI interfaces you are having trouble with:
 
 **LLM Details**
 
-Specify which LLM you are using:  
+Wich LLM you are using?   
 
 Normal Chat:  
 
@@ -34,6 +34,16 @@ Long Context Chat:
    - `claude-3-haiku-200k`
    - `claude-3.5-sonnet-200k`
 
+Context:  
+
+Are you using any of the `@` [symbol features](https://docs.cursor.com/context/@-symbols/basic)? 
+
+Which button are you choosing in the chat interface?  
+
+ - `Chat with context`
+ - `Chat with no context`
+ - `Chat with codebase`  
+
 **Relevant Logs**
 
 Check for any relevant error messages or logs:  
@@ -49,6 +59,8 @@ Also see:
 **02)**  Type `Developer:  Open Log` and select `Developer:  Open Log File...` 
 
 **03)**  Type `Cursor` and you will see some relevant options
+
+**Crash Reports** 
 
 If you experience any crashes:
 
