@@ -7,7 +7,7 @@ Cursor is a fork of VS Code.
 
 VS Code is a Code Editor by Microsoft:  
 
-[https://code.visualstudio.com/](https://code.visualstudio.com/)
+[https://code.visualstudio.com](https://code.visualstudio.com)
 
 ----
 
@@ -15,7 +15,7 @@ VS Code is a Code Editor by Microsoft:
 
 The company who created Cursor are Anysphere:
 
-[https://anysphere.inc/](https://anysphere.inc/)
+[https://anysphere.inc](https://anysphere.inc)
 
 Anysphere received some funding from OpenAI, the company behind Chat GPT:
 
