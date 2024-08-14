@@ -23,6 +23,12 @@ See [cursor_troubleshooting](cursor_troubleshooting) for approaches to common tr
 
 ---- 
 
+**Cursor Cool Stuff**
+
+See [cursor_cool_stuff](cursor_cool_stuff) for lists of various Cursor-related resources, such as [videos](cursor_cool_stuff/cursor_related_videos.md).  
+
+----
+
 **Canned Prompts**  
 
 This is an approach to saving time when writing prompts in Cursor. 
