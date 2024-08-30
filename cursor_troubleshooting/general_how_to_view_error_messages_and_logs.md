@@ -16,3 +16,4 @@ This is the parent folder of the folder that is opened when doing:
  
  - Typing and selecting `Developer: Open Logs Folder` 
  
+You can also view logs in ‘Cursor‘ > ‘Terminal‘ and then click on the dropdown and select ‘Window‘ or one of the other Cursor specific options.  
